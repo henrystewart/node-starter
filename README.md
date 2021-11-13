@@ -1,7 +1,7 @@
 # Node Starter App
 
 Reusable NodeJS starter that includes:
-[ ] NodeJS
+[] NodeJS
 * TypeScript
 * Yarn
 * Express
