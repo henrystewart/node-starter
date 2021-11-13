@@ -7,6 +7,7 @@ A reusable NodeJS starter app that includes:
 * Express
 * Docker
 * Makefile
+* Hot loading
 
 To run dev:
 `make run`
